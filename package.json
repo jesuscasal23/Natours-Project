@@ -1,0 +1,22 @@
+{
+  "name": "natours-project",
+  "version": "1.0.0",
+  "description": "learning css and sass",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesuscasal23/Natours-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesuscasal23/Natours-Project/issues"
+  },
+  "homepage": "https://github.com/jesuscasal23/Natours-Project#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
