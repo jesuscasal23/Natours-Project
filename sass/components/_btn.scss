@@ -25,6 +25,11 @@
     color: #777;
     background-color: #fff;
   }
+
+  &--green {
+    color: white;
+    background-color: $color-primary-light;
+  }
 }
 
 .btn-text {
